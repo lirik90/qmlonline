@@ -176,6 +176,6 @@ Rectangle {
 
     FontLoader {
         id: pixelFontLoader
-        source: "https://patrickelectric.work/qmlonline/resources/FreePixel.ttf"
+        source: "https://qml.zimnikov.ru/resources/FreePixel.ttf"
     }
 }

@@ -2,7 +2,7 @@ import QtQuick 2.14
 import QtQml.Models 2.12
 
 TextEdit {
-    property var source: "https://raw.githubusercontent.com/patrickelectric/qmlonline/master/README.md"
+    property var source: "https://raw.githubusercontent.com/lirik90/qmlonline/master/README.md"
     anchors.fill: parent
     textFormat: TextEdit.MarkdownText
     Component.onCompleted: getText(source, function(result) {
